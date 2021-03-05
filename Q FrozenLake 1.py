@@ -1,3 +1,4 @@
+# Q Learning / FrozenLake / Not Slippery / 4*4
 import gym
 import numpy as np
 import random
