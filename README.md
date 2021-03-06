@@ -11,13 +11,10 @@ Or:
 
 S F F F  
 F H F H  
-F F F H
+F F F H  
+H F F G  
 
-H F F G
-
-S: starting point, safe
-
-F: frozen surface, safe
-
+S: starting point, safe  
+F: frozen surface, safe  
 H: hole, fall to your doom  
-G: goal, where the frisbee is located
+G: goal, where the frisbee is located  
