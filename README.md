@@ -21,7 +21,7 @@ G: goal, where the frisbee is located
 
 The agent should start from start position (state: 0), and reach the goal (state: 15) by walikng in the frozen areas. If the agent reach the goal cell, it gets a reward (1.0).  
   
-We have 16 states nad 4 actions. It should be noted that the actions numbers map like the following:
+We have 16 states nad 4 actions. It should be noted that the action numbers map to the following directions:
 Action: Direction  
 0:  Left  
 1:  Down  
