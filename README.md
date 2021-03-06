@@ -19,3 +19,4 @@ F: frozen surface, safe
 H: hole, fall to your doom  
 G: goal, where the frisbee is located  
 
+The agent should start from state zero (start position), and reach the goal by walikng in the frozen areas.
