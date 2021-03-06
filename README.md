@@ -1,4 +1,4 @@
-# Q Learning Plays 4*4 Frozen Lake 
+# Q Learning Plays 4*4 Frozen Lake (Not Slippery)
 
 In this example, reinforcement learning method (Q Learning) makes its effort to learn 4*4 Frozen Lake.  
 The game environment is like the following:
