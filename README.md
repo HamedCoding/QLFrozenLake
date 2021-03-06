@@ -19,12 +19,12 @@ FHFH
 FFFH  
 HFFG  
   
-SFFHF
-HFHFF
-HFFFH
-HHHFH
-HFFFG
-    
+SFFHF  
+HFHFF  
+HFFFH  
+HHHFH  
+HFFFG  
+  
 S: starting point, safe  
 F: frozen surface, safe  
 H: hole, fall to your doom  
