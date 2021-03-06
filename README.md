@@ -1,7 +1,7 @@
 # Q Learning Plays 4x4 and 5x5 Frozen Lake (Not Slippery)
 
 In this example, reinforcement learning method (Q Learning) makes its effort to learn 4x4 and 5x5 Frozen Lake.  
-The 4x4 and 5x5 game environment is like the following:  
+The 4x4 and 5x5 game environments are like the following:  
 16 states  
 <p align="center">
   <img src="https://github.com/hamedmkazemi/QLearning_FrozenLake_1/blob/main/images/FrozenLake.png" alt="Sublime's custom image"/>
