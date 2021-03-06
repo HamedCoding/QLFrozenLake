@@ -1,4 +1,4 @@
-# Q Learning / Frozen Lake / Not Slippery / 4*4
+# Q Learning / Frozen Lake / Not Slippery / 4x4
 import gym
 import numpy as np
 import random
@@ -57,7 +57,7 @@ for episode in range(train_episodes):
     epsilon_lst.append(epsilon)
 
 print(q)
-print(' Mean % score in training= ', round(100*np.mean(train_wins),1))
+print(' Train mean % score= ', round(100*np.mean(train_wins),1))
 
 # test
 env.reset()
@@ -87,7 +87,7 @@ for episode in range(test_episodes):
     print('State in each step: ',state_lst)
 env.close()
 
-print(' Mean % score in testing= ', int(100*np.mean(test_wins)))
+print(' Test mean % score= ', int(100*np.mean(test_wins)))
 
 fig=plt.figure(figsize=(10,12))
 plt.subplot(311)
