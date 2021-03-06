@@ -19,4 +19,4 @@ F: frozen surface, safe
 H: hole, fall to your doom  
 G: goal, where the frisbee is located  
 
-The agent should start from start position (state: 0), and reach the goal (state: 15) by walikng in the frozen areas.
+The agent should start from start position (state: 0), and reach the goal (state: 15) by walikng in the frozen areas. If the agent reach goal cell, it gets reward (1.0).
