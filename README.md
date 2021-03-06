@@ -7,7 +7,8 @@ The game environment likes the following:
   <img src="https://github.com/hamedmkazemi/QLearning_FrozenLake_1/blob/main/images/FrozenLake.png" alt="Sublime's custom image"/>
 </p>
 Or:
-S F F F       
+S F F F      
+
 F H F H
 F F F H
 H F F G
