@@ -19,4 +19,10 @@ F: frozen surface, safe
 H: hole, fall to your doom  
 G: goal, where the frisbee is located  
 
-The agent should start from start position (state: 0), and reach the goal (state: 15) by walikng in the frozen areas. If the agent reach goal cell, it gets reward (1.0).
+The agent should start from start position (state: 0), and reach the goal (state: 15) by walikng in the frozen areas. If the agent reach the goal cell, it gets a reward (1.0).
+
+The final result of this learning:
+
+<p align="center">
+  <img src="https://github.com/hamedmkazemi/QLearning_FrozenLake_1/blob/main/images/result.png" alt="Sublime's custom image"/>
+</p>
