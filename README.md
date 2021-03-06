@@ -31,7 +31,7 @@ H: hole, fall to your doom
 G: goal, where the frisbee is located  
   
   
-The agent should start from start position (state: 0), and reach the goal (state: 15 or 25) by walking in the frozen areas. If the agent reach the goal, it gets a reward (1.0).  
+The agent should start from start position (state: 0), and reach the goal (state: 15 or 24) by walking in the frozen areas. If the agent reach the goal, it gets a reward (1.0).  
   
 It should be noted that the action numbers map to the following directions:  
 Action: Direction  
