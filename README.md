@@ -24,9 +24,9 @@ The agent should start from start position (state: 0), and reach the goal (state
 We have 16 states nad 4 actions. It should be noted that the actions numbers map like the following:
 Action: Direction  
 0:  Left  
-0:  Down  
-0:  Right  
-0:  Up  
+1:  Down  
+2:  Right  
+3:  Up  
   
   
 The final result of this learning:
